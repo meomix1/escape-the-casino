@@ -2,7 +2,8 @@
 
 import java.util.Scanner;
 
-test
+//1
+//test
 
 
 public class main{
@@ -65,6 +66,8 @@ public static void main (String [] args) {
    System.out.println("|   |||            |  |  ||  |  | |  |  ||  |  ||  |  |                  |");
    System.out.println("|  (___)           |____V||____V| |____V||____V||___Type 1 to continue...|");
    System.out.println("0------------------------------------------------------------------------0");
+
+   System.out.println("Program finished.");
     
     
 }
